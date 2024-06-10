@@ -1,0 +1,1 @@
+/home/j4297/code/rust/udemy_course/function_programming/iterating-over-collections/target/debug/iterating-over-collections: /home/j4297/code/rust/udemy_course/function_programming/iterating-over-collections/src/main.rs
