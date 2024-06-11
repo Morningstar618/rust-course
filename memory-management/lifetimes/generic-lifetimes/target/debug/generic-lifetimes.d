@@ -1,0 +1,1 @@
+/home/j4297/code/rust/udemy_course/memory-management/lifetimes/generic-lifetimes/target/debug/generic-lifetimes: /home/j4297/code/rust/udemy_course/memory-management/lifetimes/generic-lifetimes/src/main.rs
