@@ -12,11 +12,11 @@ use std::{cell::RefCell, rc::Rc};
 
 fn main() {
     // Example 1
-    // // let mut x = 5;
-    // // let x1 = &x;
-    // // let x2 = &x;
-    // // let x3 = &mut x;
-    // // println!("{} {}", x1, x2);
+    // let mut x = 5;
+    // let x1 = &x;
+    // let x2 = &x;
+    // let x3 = &mut x;
+    // println!("{} {}", x1, x2);
 
     // let a = RefCell::new(5);
     // // {
