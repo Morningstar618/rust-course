@@ -1,1 +1,0 @@
-/home/j4297/code/rust/udemy_course/concurrency/messaging-passing-through-channels/target/debug/messaging-passing-through-channels: /home/j4297/code/rust/udemy_course/concurrency/messaging-passing-through-channels/src/main.rs
